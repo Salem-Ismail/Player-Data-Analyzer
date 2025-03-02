@@ -48,4 +48,3 @@ Visuals and demo videos will be added at a later time.
 
 > [!NOTE]
 > The source code is not publicly available, but this README serves as an overview of the project's functionality and vision.
-> Screenshots & Demo Videos will be subsequently added.
